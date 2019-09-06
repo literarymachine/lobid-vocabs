@@ -2035,10 +2035,10 @@ nwbib-spatial:Q3978  a  skos:Concept ;
         skos:prefLabel  "Dormagen"@de ;
         foaf:focus      wd:Q3978 .
 
-nwbib-spatial:N05  a    skos:Concept ;
+nwbib-spatial:N04  a    skos:Concept ;
         skos:broader    nwbib-spatial:N0 ;
         skos:inScheme   <https://nwbib.de/spatial> ;
-        skos:notation   "05" ;
+        skos:notation   "04" ;
         skos:prefLabel  "Westfalen"@de ;
         foaf:focus      wd:Q8614 .
 
@@ -2557,8 +2557,9 @@ nwbib-spatial:Q722335
         foaf:focus      wd:Q722335 .
 
 nwbib-spatial:Q7927  a  skos:Concept ;
-        skos:broader    nwbib-spatial:N9 ;
+        skos:broader    nwbib-spatial:N5 ;
         skos:inScheme   <https://nwbib.de/spatial> ;
+        skos:notation   "053" ;
         skos:prefLabel  "Regierungsbezirk Köln"@de ;
         foaf:focus      wd:Q7927 .
 
@@ -5218,10 +5219,10 @@ nwbib-spatial:Q909629
         skos:prefLabel  "Brenscheid"@de ;
         foaf:focus      wd:Q909629 .
 
-nwbib-spatial:N91  a    skos:Concept ;
-        skos:broader    nwbib-spatial:N9 ;
+nwbib-spatial:N06  a    skos:Concept ;
+        skos:broader    nwbib-spatial:N6 ;
         skos:inScheme   <https://nwbib.de/spatial> ;
-        skos:notation   "91" ;
+        skos:notation   "07" ;
         skos:prefLabel  "Euregio"@de .
 
 nwbib-spatial:Q1769716
@@ -9756,8 +9757,9 @@ nwbib-spatial:Q56008538
         foaf:focus      wd:Q56008538 .
 
 nwbib-spatial:Q7920  a  skos:Concept ;
-        skos:broader    nwbib-spatial:N9 ;
+        skos:broader    nwbib-spatial:N5 ;
         skos:inScheme   <https://nwbib.de/spatial> ;
+        skos:notation   "055" ;
         skos:prefLabel  "Regierungsbezirk Münster"@de ;
         foaf:focus      wd:Q7920 .
 
@@ -12924,7 +12926,7 @@ nwbib-spatial:Q6089  a  skos:Concept ;
 
 nwbib-spatial:Q313969
         a               skos:Concept ;
-        skos:broader    nwbib-spatial:N9 ;
+        skos:broader    nwbib-spatial:N5 ;
         skos:inScheme   <https://nwbib.de/spatial> ;
         skos:prefLabel  "Regierungsbezirk Minden (bis 1947)"@de ;
         foaf:focus      wd:Q313969 .
@@ -15614,8 +15616,9 @@ nwbib-spatial:Q15056814
         foaf:focus      wd:Q15056814 .
 
 nwbib-spatial:Q7923  a  skos:Concept ;
-        skos:broader    nwbib-spatial:N9 ;
+        skos:broader    nwbib-spatial:N5 ;
         skos:inScheme   <https://nwbib.de/spatial> ;
+        skos:notation   "057" ;
         skos:prefLabel  "Regierungsbezirk Detmold"@de ;
         foaf:focus      wd:Q7923 .
 
@@ -21261,8 +21264,9 @@ nwbib-spatial:Q2048240
         foaf:focus      wd:Q2048240 .
 
 nwbib-spatial:Q7926  a  skos:Concept ;
-        skos:broader    nwbib-spatial:N9 ;
+        skos:broader    nwbib-spatial:N5 ;
         skos:inScheme   <https://nwbib.de/spatial> ;
+        skos:notation   "051" ;
         skos:prefLabel  "Regierungsbezirk Düsseldorf"@de ;
         foaf:focus      wd:Q7926 .
 
@@ -22965,8 +22969,9 @@ nwbib-spatial:Q54803603
 
 nwbib-spatial:Q896929
         a               skos:Concept ;
-        skos:broader    nwbib-spatial:N9 ;
+        skos:broader    nwbib-spatial:N5 ;
         skos:inScheme   <https://nwbib.de/spatial> ;
+        skos:notation   "054" ;
         skos:prefLabel  "Regierungsbezirk Aachen (bis 1972)"@de ;
         foaf:focus      wd:Q896929 .
 
@@ -26263,10 +26268,10 @@ nwbib-spatial:Q47462109
         skos:prefLabel  "Kirchenkreis Gladbeck-Bottrop-Dorsten"@de ;
         foaf:focus      wd:Q47462109 .
 
-nwbib-spatial:N9  a     skos:Concept ;
+nwbib-spatial:N5  a     skos:Concept ;
         skos:inScheme   <https://nwbib.de/spatial> ;
-        skos:notation   "9" ;
-        skos:prefLabel  "Regierungsbezirke, Kreise, Orte. Euregio"@de .
+        skos:notation   "5" ;
+        skos:prefLabel  "Regierungsbezirke, Kreise, Orte"@de .
 
 nwbib-spatial:Q1003093
         a               skos:Concept ;
@@ -27790,8 +27795,9 @@ nwbib-spatial:Q1591063
         foaf:focus      wd:Q1591063 .
 
 nwbib-spatial:Q7924  a  skos:Concept ;
-        skos:broader    nwbib-spatial:N9 ;
+        skos:broader    nwbib-spatial:N5 ;
         skos:inScheme   <https://nwbib.de/spatial> ;
+        skos:notation   "059" ;
         skos:prefLabel  "Regierungsbezirk Arnsberg"@de ;
         foaf:focus      wd:Q7924 .
 
